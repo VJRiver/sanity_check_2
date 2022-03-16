@@ -12,5 +12,6 @@ public class mensaje {
 		}catch(Exception e) {
 			JOptionPane.showMessageDialog(null, "Saludo cancelado");
 		}
+		
 	}	// SALUDAR()
 }

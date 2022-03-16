@@ -5,6 +5,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		mensaje saludo = new mensaje();
 		saludo.saludar();
+		System.out.println("Buenas noches");
 	}
 
 }
