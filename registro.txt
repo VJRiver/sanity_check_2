@@ -1,0 +1,28 @@
+~/Desktop/PROGRAMACION/Java/EclipseProjects/Practica_Git/bin> git remote add origin git@github.com:VJRiver/test_rapido.git
+error: remote origin already exists.
+~/Desktop/PROGRAMACION/Java/EclipseProjects/Practica_Git/bin> git push -u origin main
+The authenticity of host 'github.com (140.82.113.4)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+Please type 'yes', 'no' or the fingerprint: yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+************************************************************************************************************************
+~/Desktop/PROGRAMACION/Java/EclipseProjects/Practica_Git/bin> ssh-keyscan github.com >> ~/.ssh/known_hosts
+# github.com:22 SSH-2.0-babeld-4f04c79d
+# github.com:22 SSH-2.0-babeld-4f04c79d
+# github.com:22 SSH-2.0-babeld-4f04c79d
+# github.com:22 SSH-2.0-babeld-4f04c79d
+# github.com:22 SSH-2.0-babeld-4f04c79d
+~/Desktop/PROGRAMACION/Java/EclipseProjects/Practica_Git/bin> git push -u origin main
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
