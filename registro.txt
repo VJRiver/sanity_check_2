@@ -26,3 +26,29 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+**********************************************************************************************************************
+
+~/Desktop/PROGRAMACION/Java/EclipseProjects/Practica_Git/bin> ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/Dell3020/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Dell3020/.ssh/id_rsa
+Your public key has been saved in /c/Users/Dell3020/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:f4pScqqDYlWaRzpPO+A4fllygZBXMM43m4AbwfC/IiU Dell3020@X-Room
+The key's randomart image is:
++---[RSA 3072]----+
+|+..oo.           |
+| ==..            |
+| o++.o           |
+|  ooo++          |
+|E.. Bo. S        |
+| o O *. o.       |
+|. =.% .=  . .    |
+|.=.=.+o  . o     |
+|ooo .o... .      |
++----[SHA256]-----+
+~/Desktop/PROGRAMACION/Java/EclipseProjects/Practica_Git/bin> 
+
+
