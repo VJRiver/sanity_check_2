@@ -1,0 +1,16 @@
+error writing "stdout": broken pipe
+error writing "stdout": broken pipe
+    while executing
+"puts $::answer"
+    (procedure "finish" line 14)
+    invoked from within
+"finish"
+    invoked from within
+".b.ok invoke"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel #0 [list $w invoke]"
+    (procedure "tk::ButtonUp" line 24)
+    invoked from within
+"tk::ButtonUp .b.ok"
+    (command bound to event)

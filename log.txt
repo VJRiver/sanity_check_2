@@ -1,0 +1,4 @@
+master	https://github.com/VJRiver/test_rapido.git (fetch)
+master	https://github.com/VJRiver/test_rapido.git (push)
+origin	https://github.com/VJRiver/test_rapido.git (fetch)
+origin	https://github.com/VJRiver/test_rapido.git (push)
